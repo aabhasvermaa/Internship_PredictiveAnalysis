@@ -2,6 +2,8 @@
 
 This project provides a FastAPI-based API for training a Logistic Regression model to predict machine downtime based on temperature and runtime inputs. The API supports uploading datasets, training the model, and making predictions.
 
+This API is designed following RESTful principles using FastAPI for rapid development and deployment.
+
 ---
 
 ## Features
